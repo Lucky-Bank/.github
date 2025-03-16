@@ -6,7 +6,7 @@ icon: image-landscape
 
 ## Общее предложение токенов
 
-Общее количество токенов $LB: **100 000**.
+Общее количество токенов $BANK: **100 000**.
 
 ***
 
@@ -26,6 +26,8 @@ icon: image-landscape
 ## Диаграмма распределение токенов
 
 ***
+
+<figure><img src="../.gitbook/assets/tokens_diagram.png" alt="" width="548"><figcaption></figcaption></figure>
 
 ## Описание распределения
 
@@ -62,7 +64,9 @@ icon: image-landscape
 
 ### **Квадратичная кривая**
 
-Цена токена $LB будет увеличиваться по квадратичной кривой в зависимости от проданного количества токенов. Формула для расчета цены:
+Цена токена $BANK
+
+&#x20;будет увеличиваться по квадратичной кривой в зависимости от проданного количества токенов. Формула для расчета цены:
 
 
 
@@ -87,44 +91,62 @@ $$
 2.  **После продажи 32 500 токенов**:
 
     * Резерв: 32 500 USDT.
-    * Цена токена:\
-      \[\
-      \text{Price} = 1 + \left( \frac{32,500}{65,000} \right)^2 \times 2 = 1 + 0.25 \times 2 = 1.5 \text{ USDT}.\
-      ]
+    *   Цена токена:&#x20;
+
+        $$
+        [\frac{100}{1.5} \approx 66.67 \text{ токенов}.]
+        $$
+
+        \
+
+
+        $$
+        \text{Price} = 1 + \left( \frac{32,500}{65,000} \right)^2 \times 2 = 1 + 0.25 \times 2 = 1.5 \text{ USDT}.
+        $$
 
 
 
-    * Пользователь отправляет 100 USDT и получает:\
-      \[\
-      \frac{100}{1.5} \approx 66.67 \text{ токенов}.\
-      ]
+    *   Пользователь отправляет 100 USDT и получает:&#x20;
+
+        $$
+        [\frac{100}{1.5} \approx 66.67 \text{ токенов}.]
+        $$
 3. **Конец продажи**:
    * Резерв: 65 000 USDT.
-   * Цена токена:\
-     \[\
-     \text{Price} = 1 + \left( \frac{65,000}{65,000} \right)^2 \times 2 = 1 + 2 = 3 \text{ USDT}.\
-     ]
+   *   Цена токена:&#x20;
+
+       $$
+       \text{Price} = 1 + \left( \frac{65,000}{65,000} \right)^2 \times 2 = 1 + 2 = 3 \text{ USDT}.
+       $$
+
+       \
+
 
 ***
 
 ### **Общая выручка**
 
-Общая выручка от Public Sale составит:\
-\[\
-\text{TotalRevenue} = \text{START\_PRICE} \times \text{TotalSupply} + \frac{\text{PRICE\_DIFFERENCE} \times \text{TotalSupply\}}{3}\
-]\
-\[\
-\= 1 \times 65,000 + \frac{2 \times 65,000}{3}\
-]\
-\[\
-\= 65,000 + 43,333.\overline{3} = 108,333.\overline{3} \text{ USDT}.\
-]
+Общая выручка от Public Sale составит:&#x20;
+
+$$
+\text{TotalRevenue} = \text{START_PRICE} \times \text{TotalSupply} + \frac{\text{PRICE_DIFFERENCE} \times \text{TotalSupply}}{3}
+$$
+
+$$
+= 1 \times 65\,000 + \frac{2 \times 65\,000}{3}
+$$
+
+$$
+= 65\,000 + 43\,333.\overline{3} = 108\,333.\overline{3} \text{ USDT}.
+$$
 
 ***
 
 ## График изменения цены
 
 ***
+
+<figure><img src="../.gitbook/assets/price_graph.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Распределение вырученных средств
 
