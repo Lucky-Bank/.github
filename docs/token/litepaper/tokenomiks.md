@@ -1,5 +1,5 @@
 ---
-icon: image-landscape
+icon: sack-dollar
 ---
 
 # Токеномика
@@ -27,7 +27,7 @@ icon: image-landscape
 
 ***
 
-<figure><img src="../.gitbook/assets/tokens_diagram.png" alt="" width="548"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tokens_diagram.png" alt="" width="548"><figcaption></figcaption></figure>
 
 ## Описание распределения
 
@@ -94,7 +94,7 @@ $$
     *   Цена токена:&#x20;
 
         $$
-        [\frac{100}{1.5} \approx 66.67 \text{ токенов}.]
+        \frac{100}{1.5} \approx 66.67 \text{ токенов}.
         $$
 
         \
@@ -109,7 +109,7 @@ $$
     *   Пользователь отправляет 100 USDT и получает:&#x20;
 
         $$
-        [\frac{100}{1.5} \approx 66.67 \text{ токенов}.]
+        \frac{100}{1.5} \approx 66.67 \text{ токенов}.
         $$
 3. **Конец продажи**:
    * Резерв: 65 000 USDT.
@@ -146,7 +146,7 @@ $$
 
 ***
 
-<figure><img src="../.gitbook/assets/price_graph.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/price_graph.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Распределение вырученных средств
 

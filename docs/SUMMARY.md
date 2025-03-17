@@ -2,15 +2,14 @@
 
 * [Главная](README.md)
 
-## Getting Started
+## Начало работы <a href="#getting-started" id="getting-started"></a>
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Кредит](getting-started/loan.md)
+* [Депозит](getting-started/deposit.md)
 
-## Basics
+## Jetton $BANK <a href="#token" id="token"></a>
 
-* [Litepaper](basics/editor.md)
-* [Токеномика](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Litepaper](token/litepaper/README.md)
+  * [Токеномика](token/litepaper/tokenomiks.md)
+  * [Анализ рынка](token/litepaper/market-analysis.md)
+  * [Дорожная карта](token/litepaper/roadmap.md)
