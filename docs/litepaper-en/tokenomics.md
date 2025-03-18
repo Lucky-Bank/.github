@@ -1,0 +1,6 @@
+---
+icon: sack-dollar
+---
+
+# Tokenomics
+

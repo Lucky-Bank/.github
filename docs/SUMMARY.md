@@ -13,3 +13,8 @@
   * [Токеномика](token/litepaper/tokenomiks.md)
   * [Анализ рынка](token/litepaper/market-analysis.md)
   * [Дорожная карта](token/litepaper/roadmap.md)
+
+***
+
+* [Litepaper \[EN\]](litepaper-en/README.md)
+  * [Tokenomics](litepaper-en/tokenomics.md)
