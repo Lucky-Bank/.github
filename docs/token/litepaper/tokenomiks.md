@@ -6,10 +6,11 @@ icon: sack-dollar
 
 ## Общее предложение токенов
 
-Тикер: ***$BANK***
-Общее количество токенов: **100 000**
-Адрес мастер-контракта: **[EQB1399hPqWDdupmVw43dKBEgYgsEtoliVGsfpchiHC-BANK](https://tonviewer.com/EQB1399hPqWDdupmVw43dKBEgYgsEtoliVGsfpchiHC-BANK)**
-Owner: ***Отозван***
+Тикер: _**$BANK**_\
+Общее количество токенов: **100 000**\
+Адрес мастер-контракта: [**EQB1399hPqWDdupmVw43dKBEgYgsEtoliVGsfpchiHC-BANK**](https://tonviewer.com/EQB1399hPqWDdupmVw43dKBEgYgsEtoliVGsfpchiHC-BANK)\
+Owner: _**Отозван**_
+
 ***
 
 ## Распределение токенов
@@ -21,17 +22,15 @@ Owner: ***Отозван***
 | **Dedust Liquidity** | 5 000              | 5%                         |
 | **Lucky Ton**        | 5 000              | 5%                         |
 | **Sale Referrals**   | 4 500              | 4,5%                       |
-| **Promo**            |   500              | 0,5%                       |
+| **Promo**            | 500                | 0,5%                       |
 | **Итого**            | 100 000            | 100%                       |
 
 ***
 
 ## Диаграмма распределение токенов
 
-<figure><img src="../../.gitbook/assets/tokens_diagram.png" alt="" width="548"><figcaption></figcaption></figure>
-
 ```mermaid
-pie title Диаграмма распределение токенов
+pie 
     "Public Sale" : 65000
     "Team" : 20000
     "Dedust Liquidity" : 5000
@@ -39,6 +38,7 @@ pie title Диаграмма распределение токенов
     "Sale Referrals" : 4500
     "Promo" : 500
 ```
+
 ***
 
 ## Описание распределения
@@ -51,8 +51,9 @@ pie title Диаграмма распределение токенов
 ### **2. Team (20%)**
 
 * Токены зарезервированы для команды проекта.
-* Распределены с вестингом на 1 год. Будут разморожены 12.04.2026
-    _Адрес смарт-контракта вестинга: [EQBEU618M4KkoHm8-Rmrse-BDcQ_FqnqrKyOrcPUH8iwn7eT](https://tonviewer.com/EQBEU618M4KkoHm8-Rmrse-BDcQ_FqnqrKyOrcPUH8iwn7eT)_
+*   Распределены с вестингом на 1 год. Будут разморожены 12.04.2026
+
+    _Адрес смарт-контракта вестинга:_ [_EQBEU618M4KkoHm8-Rmrse-BDcQ\_FqnqrKyOrcPUH8iwn7eT_](https://tonviewer.com/EQBEU618M4KkoHm8-Rmrse-BDcQ_FqnqrKyOrcPUH8iwn7eT)
 * По окончанию вестинга будут размещены в "вечный" стейкинг.
 
 ### **3. Dedust Liquidity (5%)**
@@ -64,8 +65,9 @@ pie title Диаграмма распределение токенов
 ### **4. Lucky Ton (5%)**
 
 * Токены выделены для стимулирования материнского проекта.
-* Распределены с вестингом на 1 год. Будут разморожены 12.04.2026
-    _Адрес смарт-контракта вестинга: [EQBj8YwOWEEHc77VCO0VetBTHjNcJopa2hCqF1plUvuNMGZw](https://tonviewer.com/EQBj8YwOWEEHc77VCO0VetBTHjNcJopa2hCqF1plUvuNMGZw)_
+*   Распределены с вестингом на 1 год. Будут разморожены 12.04.2026
+
+    _Адрес смарт-контракта вестинга:_ [_EQBj8YwOWEEHc77VCO0VetBTHjNcJopa2hCqF1plUvuNMGZw_](https://tonviewer.com/EQBj8YwOWEEHc77VCO0VetBTHjNcJopa2hCqF1plUvuNMGZw)
 * По окончанию вестинга будут размещены в "вечный" стейкинг.
 
 ### **5. Sale Referrals (4,5%)**
@@ -83,20 +85,23 @@ pie title Диаграмма распределение токенов
 
 ```mermaid
 timeline
-    title ICO Milestones
     Soft Cap : 5000 $BANK : 12.04.2025
     Dedust WL : 35000 $BANK 
     Hard Cap : 65000 $BANK : 12.04.2026
 ```
 
 ### Soft Cap
+
 Софткап публичной продажи составляет 5000 $BANK и ограничен датой 12.04.2025. Если к установленной дате не произойдёт реализация необходимого количества токенов, все вырученные средства будут возвращены покупателям в полном объеме.
 
 ### Dedust WL
+
 Порог для создания пула ликвидности на децентрализованной бирже Dedust составляет 35000 $BANK
 
 ### Hard Cap
+
 Хардкап публичной продажи составляет все выделенные 65000 $BANK и ограничен датой 12.04.2026. Если к установленной дате не произойдёт реализация всех токенов, оставшиеся токены будут сожжены. А так же будут сожжены все невостребованные токены выделенные на реферральную награду.
+
 ***
 
 ## Механизм Public Sale
@@ -104,8 +109,6 @@ timeline
 ### **Квадратичная кривая**
 
 Цена токена $BANK будет увеличиваться по квадратичной кривой в зависимости от проданного количества токенов. Формула для расчета цены:
-
-
 
 $$
 \text{Price} = \text{START\_PRICE} + \left( \frac{\text{Reserve}}{\text{TotalSupply}} \right)^2 \times \text{PRICE\_DIFFERENCE}
@@ -120,8 +123,6 @@ $$
 ***
 
 ### График изменения цены
-
-<figure><img src="../../.gitbook/assets/price_graph.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
@@ -147,21 +148,22 @@ xychart-beta
    * Резерв: 0 USDT.
    * Цена токена: 1 USDT.
    * Пользователь отправляет 100 USDT и получает 100 токенов.
-
 2. **После продажи 32 500 токенов**:
-    * Резерв: 32 500 USDT.
-    * Цена токена:
-        $$
-        \text{Price} = 1 + \left( \frac{32,500}{65,000} \right)^2 \times 2 = 1 + 0.25 \times 2 = 1.5 \text{ USDT}.
-        $$
-    * Пользователь отправляет 100 USDT и получает:
-        $$
-        \frac{100}{1.5} \approx 66.67 \text{ токенов}.
-        $$
+   * Резерв: 32 500 USDT.
+   *   Цена токена:
 
+       $$
+       \text{Price} = 1 + \left( \frac{32,500}{65,000} \right)^2 \times 2 = 1 + 0.25 \times 2 = 1.5 \text{ USDT}.
+       $$
+   *   Пользователь отправляет 100 USDT и получает:
+
+       $$
+       \frac{100}{1.5} \approx 66.67 \text{ токенов}.
+       $$
 3. **Конец продажи**:
    * Резерв: 65 000 USDT.
-   * Цена токена:
+   *   Цена токена:
+
        $$
        \text{Price} = 1 + \left( \frac{65,000}{65,000} \right)^2 \times 2 = 1 + 2 = 3 \text{ USDT}.
        $$
@@ -171,6 +173,7 @@ xychart-beta
 ### **Общая выручка**
 
 Общая выручка от Public Sale составит:
+
 $$
 \text{TotalRevenue} = \text{START\_PRICE} \times \text{TotalSupply} + \frac{\text{PRICE\_DIFFERENCE} \times \text{TotalSupply}}{3}
 $$
