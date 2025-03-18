@@ -10,6 +10,7 @@ icon: sack-dollar
 Общее количество токенов: **100 000**\
 Адрес мастер-контракта: [**EQB1399hPqWDdupmVw43dKBEgYgsEtoliVGsfpchiHC-BANK**](https://tonviewer.com/EQB1399hPqWDdupmVw43dKBEgYgsEtoliVGsfpchiHC-BANK)\
 Owner: _**Отозван**_
+Формат ICO: _**Квадратичная кривая. Старт 1 USDT. Окончание 3 USDT.**_
 
 ***
 
