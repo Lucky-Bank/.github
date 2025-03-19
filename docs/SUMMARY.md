@@ -18,3 +18,5 @@
 
 * [Litepaper \[EN\]](litepaper-en/README.md)
   * [Tokenomics](litepaper-en/tokenomics.md)
+  * [Market Analysis](litepaper-en/market-analysis.md)
+  * [Roadmap](litepaper-en/roadmap.md)
