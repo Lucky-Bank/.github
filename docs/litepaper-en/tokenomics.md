@@ -9,22 +9,22 @@ icon: sack-dollar
 Ticker: _**$BANK**_\
 Total Token Supply: **100,000**\
 Master Contract Address: [**EQB1399hPqWDdupmVw43dKBEgYgsEtoliVGsfpchiHC-BANK**](https://tonviewer.com/EQB1399hPqWDdupmVw43dKBEgYgsEtoliVGsfpchiHC-BANK)\
-Owner: _**Revoked**_
+Owner: _**Revoked**_\
 ICO Format: _**Quadratic Curve. Start at 1 USDT. End at 3 USDT.**_
 
 ***
 
 ## Token Distribution
 
-| Category            | Number of Tokens | Percentage of Total Supply |
-| ------------------- | ---------------- | -------------------------- |
-| **Public Sale**     | 65,000           | 65%                        |
-| **Team**            | 20,000           | 20%                        |
-| **Dedust Liquidity**| 5,000            | 5%                         |
-| **Lucky Ton**       | 5,000            | 5%                         |
-| **Sale Referrals**  | 4,500            | 4.5%                       |
-| **Promo**           | 500              | 0.5%                       |
-| **Total**           | 100,000          | 100%                       |
+| Category             | Number of Tokens | Percentage of Total Supply |
+| -------------------- | ---------------- | -------------------------- |
+| **Public Sale**      | 65,000           | 65%                        |
+| **Team**             | 20,000           | 20%                        |
+| **Dedust Liquidity** | 5,000            | 5%                         |
+| **Lucky Ton**        | 5,000            | 5%                         |
+| **Sale Referrals**   | 4,500            | 4.5%                       |
+| **Promo**            | 500              | 0.5%                       |
+| **Total**            | 100,000          | 100%                       |
 
 ***
 
@@ -32,17 +32,7 @@ ICO Format: _**Quadratic Curve. Start at 1 USDT. End at 3 USDT.**_
 
 <figure><img src="../../.gitbook/assets/tokenomiks1.png" alt=""><figcaption></figcaption></figure>
 
-<!--
-```mermaid
-pie 
-    "Public Sale" : 65000
-    "Team" : 20000
-    "Dedust Liquidity" : 5000
-    "Lucky Ton" : 5000
-    "Sale Referrals" : 4500
-    "Promo" : 500
-```
--->
+<figure><img src="../.gitbook/assets/tokenomiks1.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -87,14 +77,6 @@ pie
 ## ICO Milestones
 
 <figure><img src="../../.gitbook/assets/tokenomiks2.png" alt=""><figcaption></figcaption></figure>
-<!--
-```mermaid
-timeline
-    Soft Cap : 5000 $BANK : 12.04.2025
-    Dedust WL : 35000 $BANK 
-    Hard Cap : 65000 $BANK : 12.04.2026
-```
--->
 
 ### Soft Cap
 
@@ -131,24 +113,6 @@ Where:
 ### Price Change Chart
 
 <figure><img src="../../.gitbook/assets/tokenomiks3.png" alt=""><figcaption></figcaption></figure>
-
-<!--
-```mermaid
----
-config:
-    themeVariables:
-        xyChart:
-            xAxisTitleColor: "#0000ff"
-            yAxisTitleColor: "#0000ff"
-            plotColorPalette: "#00ff00"
----
-xychart-beta
-    title "$BANK Price"
-    x-axis "$BANK Amount" [0, 5000,10000,15000,20000,25000,30000,35000,40000,45000,50000,55000,60000,65000]
-    y-axis "Price (in USDT)" 
-    line [1.00, 1.01, 1.05, 1.11, 1.19, 1.30, 1.43, 1.58, 1.76, 1.96, 2.18, 2.43, 2.70, 3.00]
-```
--->
 
 ***
 
