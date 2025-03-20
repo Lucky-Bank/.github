@@ -45,22 +45,7 @@ In this situation, no new DeFi tools related to NFT collateral lending are emerg
 
 After assessing the volume of the pool-to-peer NFT collateral lending market, we decided not to enter into direct competition with existing players, as this would inevitably lead to "price wars" and ultimately benefit no one. Therefore, as part of Lucky Bank's further development, we plan to occupy free niches and attempt to create new DeFi tools utilizing NFTs. The following main features are planned for implementation in the near future:
 
-#### 1. Peer-to-peer NFT lending
-
-This technology has already successfully existed in the TON network, but this niche is currently vacant. Loans will be implemented in TON and USDT. The process consists of the following steps:
-
-* The borrower sends NFTs for appraisal to bankers.
-* Bankers send the borrower their offers regarding loan amount, term, and interest rate.
-* The borrower selects the best offer and receives the loan.
-
-#### 2. Automated Peer-to-peer NFT lending
-
-Thanks to our accumulated experience in developing pool-to-peer smart contracts, we have the opportunity to expand standard peer-to-peer lending, thereby simplifying and speeding up the loan process for borrowers:
-
-* A banker creates their own liquidity pool and configures lending parameters for the collections they are interested in.
-* The borrower selects the best offer from pre-created ones and receives the loan.
-
-#### 3. AMM NFT lending
+#### 1. AMM NFT lending
 
 With the emergence of Telegram Gifts collections, which have an active market and a sufficiently large supply of NFTs, there is an opportunity to create AMM lending pools:
 
@@ -71,6 +56,21 @@ With the emergence of Telegram Gifts collections, which have an active market an
 * In the dApp interface, all these processes may not be visible. The borrower simply sends the NFT, receives TON in return, and vice versa when repaying the loan on time.
 * For investors, the AMM lending pool is practically no different from standard DEX liquidity pools, except that these pools have significantly higher exchange fees, and to provide liquidity, one must deposit NFTs of the corresponding collections along with TON/USDT.
 * If this type of lending becomes sufficiently popular, it will be possible to spin it off into a separate service, and thus a new protocol — AMM NFT Marketplace — may emerge in the TON ecosystem.
+
+#### 2. Peer-to-peer NFT lending
+
+This technology has already successfully existed in the TON network, but this niche is currently vacant. Loans will be implemented in TON and USDT. The process consists of the following steps:
+
+* The borrower sends NFTs for appraisal to bankers.
+* Bankers send the borrower their offers regarding loan amount, term, and interest rate.
+* The borrower selects the best offer and receives the loan.
+
+#### 3. Automated Peer-to-peer NFT lending
+
+Thanks to our accumulated experience in developing pool-to-peer smart contracts, we have the opportunity to expand standard peer-to-peer lending, thereby simplifying and speeding up the loan process for borrowers:
+
+* A banker creates their own liquidity pool and configures lending parameters for the collections they are interested in.
+* The borrower selects the best offer from pre-created ones and receives the loan.
 
 For more details on the development and roadmap, please refer to the [Roadmap](roadmap.md) section.
 
@@ -130,6 +130,14 @@ For more details, please refer to the [Tokenomics](tokenomiks.md) section.
 ## **10. Conclusion**
 
 **Lucky Bank** offers **an alternative to the monopolist**, providing users with **high-quality service**, **transparency**, and **unique opportunities**. We aim to become **the market leader** by using innovative technologies and offering users more freedom and choice. The $BANK token will play a key role in the ecosystem, providing utilities and incentives for participants.
+
+## **Links**
+
+Telegram MiniApp: https://t.me/Lucky_BankBot/App
+Web: https://lucky-bank.github.io/
+
+Telegram Channel (RU): https://t.me/lucky_ton_bank
+Telegram Chat: https://t.me/lucky_bank_chat
 
 [^1]: Based on Krediton Lending Tool (KLT) — a decentralized dApp (fully implemented on smart contracts without server-side involvement) B2B service https://t.me/krediton.
 

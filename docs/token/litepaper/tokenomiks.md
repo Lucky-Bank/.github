@@ -30,6 +30,9 @@ Owner: _**Отозван**_
 
 ## Диаграмма распределение токенов
 
+<figure><img src="../../.gitbook/assets/tokenomiks1.png" alt=""><figcaption></figcaption></figure>
+
+<!--
 ```mermaid
 pie 
     "Public Sale" : 65000
@@ -39,6 +42,7 @@ pie
     "Sale Referrals" : 4500
     "Promo" : 500
 ```
+-->
 
 ***
 
@@ -55,11 +59,10 @@ pie
 *   Распределены с вестингом на 1 год. Будут разморожены 12.04.2026
 
     _Адрес смарт-контракта вестинга:_ [_EQBEU618M4KkoHm8-Rmrse-BDcQ\_FqnqrKyOrcPUH8iwn7eT_](https://tonviewer.com/EQBEU618M4KkoHm8-Rmrse-BDcQ_FqnqrKyOrcPUH8iwn7eT)
-* По окончанию вестинга будут размещены в "вечный" стейкинг.
 
 ### **3. Dedust Liquidity (5%)**
 
-* Токены для обеспечения ликвидности на децентрализованныой бирже Dedust.
+* Токены для обеспечения ликвидности на децентрализованной бирже Dedust.
 * Будут добавлены в пулы ликвидности для обеспечения стабильности торгов.
 * Полученные LP-токены будут отправлены на null адрес.
 
@@ -69,7 +72,6 @@ pie
 *   Распределены с вестингом на 1 год. Будут разморожены 12.04.2026
 
     _Адрес смарт-контракта вестинга:_ [_EQBj8YwOWEEHc77VCO0VetBTHjNcJopa2hCqF1plUvuNMGZw_](https://tonviewer.com/EQBj8YwOWEEHc77VCO0VetBTHjNcJopa2hCqF1plUvuNMGZw)
-* По окончанию вестинга будут размещены в "вечный" стейкинг.
 
 ### **5. Sale Referrals (4,5%)**
 
@@ -84,12 +86,15 @@ pie
 
 ## ICO Milestones
 
+<figure><img src="../../.gitbook/assets/tokenomiks2.png" alt=""><figcaption></figcaption></figure>
+<!--
 ```mermaid
 timeline
     Soft Cap : 5000 $BANK : 12.04.2025
     Dedust WL : 35000 $BANK 
     Hard Cap : 65000 $BANK : 12.04.2026
 ```
+-->
 
 ### Soft Cap
 
@@ -125,8 +130,9 @@ $$
 
 ### График изменения цены
 
-***
+<figure><img src="../../.gitbook/assets/tokenomiks3.png" alt=""><figcaption></figcaption></figure>
 
+<!--
 ```mermaid
 ---
 config:
@@ -139,9 +145,12 @@ config:
 xychart-beta
     title "$BANK Price"
     x-axis "$BANK Amount" [0, 5000,10000,15000,20000,25000,30000,35000,40000,45000,50000,55000,60000,65000]
-    y-axis "Price (in USDT)" 1 --> 3
+    y-axis "Price (in USDT)" 
     line [1.00, 1.01, 1.05, 1.11, 1.19, 1.30, 1.43, 1.58, 1.76, 1.96, 2.18, 2.43, 2.70, 3.00]
 ```
+-->
+
+***
 
 ### **Пример расчета цены**
 
