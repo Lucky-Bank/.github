@@ -30,8 +30,6 @@ ICO Format: _**Quadratic Curve. Start at 1 USDT. End at 3 USDT.**_
 
 ## Token Distribution Chart
 
-<figure><img src="../../.gitbook/assets/tokenomiks1.png" alt=""><figcaption></figcaption></figure>
-
 <figure><img src="../.gitbook/assets/tokenomiks1.png" alt=""><figcaption></figcaption></figure>
 
 ***
@@ -76,7 +74,7 @@ ICO Format: _**Quadratic Curve. Start at 1 USDT. End at 3 USDT.**_
 
 ## ICO Milestones
 
-<figure><img src="../../.gitbook/assets/tokenomiks2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tokenomiks2.png" alt=""><figcaption></figcaption></figure>
 
 ### Soft Cap
 
@@ -112,7 +110,7 @@ Where:
 
 ### Price Change Chart
 
-<figure><img src="../../.gitbook/assets/tokenomiks3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tokenomiks3.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

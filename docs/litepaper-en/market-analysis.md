@@ -38,31 +38,31 @@ Launched on January 14, 2025. It operates based on Krediton Lending Tool.
 The data below does not claim to be absolutely accurate, and there may be serious errors due to the lack of publicly available documentation on the project's smart contract protocols.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/lama1.png" alt=""><figcaption><p>Volume of issued loans, repayments, and profit. Data is grouped by loan issuance date. Profit and repayments in this sample are calculated without considering marketplace purchase loans.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/lama1.png" alt=""><figcaption><p>Volume of issued loans, repayments, and profit. Data is grouped by loan issuance date. Profit and repayments in this sample are calculated without considering marketplace purchase loans.</p></figcaption></figure>
 
 During the entire contract usage period, 587,427 TON were issued (including marketplace loans), with a profit of 23,180 TON (excluding marketplace loans).
 
-<figure><img src="../../.gitbook/assets/lama6.png" alt=""><figcaption><p>Volume of loan repayments and profit. Data is grouped by repayment/extension date. Profit and repayments in this sample are calculated without considering marketplace purchase loans.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/lama6.png" alt=""><figcaption><p>Volume of loan repayments and profit. Data is grouped by repayment/extension date. Profit and repayments in this sample are calculated without considering marketplace purchase loans.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/lama2.png" alt=""><figcaption><p>Total number of loans issued, loans against existing collateral, and loans for marketplace purchases by month.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/lama2.png" alt=""><figcaption><p>Total number of loans issued, loans against existing collateral, and loans for marketplace purchases by month.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/lama3.png" alt=""><figcaption><p>Total number of loans issued, unique NFTs used as collateral, and unique wallets that received loans by month. Data is sourced from a different table, so the results differ from the previous ones but follow the same trend.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/lama3.png" alt=""><figcaption><p>Total number of loans issued, unique NFTs used as collateral, and unique wallets that received loans by month. Data is sourced from a different table, so the results differ from the previous ones but follow the same trend.</p></figcaption></figure>
 
 During the entire contract usage period, 9,891 loans were issued, involving 1,856 unique wallets and 4,631 unique NFTs.
 
-<figure><img src="../../.gitbook/assets/lama4.png" alt=""><figcaption><p>Data from the old pool contract used before July 2024. There is an anomaly in the March 2024 data, so it should be ignored. Volume of issued loans, repayments, and profit. Data is grouped by loan issuance date. Profit and repayments in this sample are calculated without considering marketplace purchase loans.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/lama4.png" alt=""><figcaption><p>Data from the old pool contract used before July 2024. There is an anomaly in the March 2024 data, so it should be ignored. Volume of issued loans, repayments, and profit. Data is grouped by loan issuance date. Profit and repayments in this sample are calculated without considering marketplace purchase loans.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/lama5.png" alt=""><figcaption><p>Data from the old pool contract used before July 2024. There is an anomaly in the March 2024 data, so it should be ignored. Volume of loan repayments and profit. Data is grouped by repayment/extension date. Profit and repayments in this sample are calculated without considering marketplace purchase loans.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/lama5.png" alt=""><figcaption><p>Data from the old pool contract used before July 2024. There is an anomaly in the March 2024 data, so it should be ignored. Volume of loan repayments and profit. Data is grouped by repayment/extension date. Profit and repayments in this sample are calculated without considering marketplace purchase loans.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/lama7.png" alt=""><figcaption><p>Volume of liquidity supplied to the lending pool (expressed in LP tokens) and the number of unique wallets that made deposits.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/lama7.png" alt=""><figcaption><p>Volume of liquidity supplied to the lending pool (expressed in LP tokens) and the number of unique wallets that made deposits.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/lama8.png" alt=""><figcaption><p>Volume of liquidity withdrawn from the lending pool (expressed in LP tokens) and the number of unique wallets that made withdrawals.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/lama8.png" alt=""><figcaption><p>Volume of liquidity withdrawn from the lending pool (expressed in LP tokens) and the number of unique wallets that made withdrawals.</p></figcaption></figure>
 
 ### 2. TON Lombard Bot (Frozen)
 
 Currently inactive. As the project was an off-chain service, historical data is not publicly available. Only a screenshot of the admin panel, taken by the original founder after the bot was hacked, is available (received along with the offer to sell the service).
 
-<figure><img src="../../.gitbook/assets/lombard-profit.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/lombard-profit.jpg" alt=""><figcaption></figcaption></figure>
 
 ### 3. Scroogers Bank
 
@@ -70,7 +70,7 @@ The project's lifespan is too short for objective data analysis.
 
 ### 4. Telegram Gifts
 
-<figure><img src="../../.gitbook/assets/gifts1.png" alt=""><figcaption><p>Daily trading volume of Telegram Gifts in USDT.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/gifts1.png" alt=""><figcaption><p>Daily trading volume of Telegram Gifts in USDT.</p></figcaption></figure>
 
 Total trading volume: 6,259,937 TON, unique users: 69,582 (as of 19.03.2024).
 

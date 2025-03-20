@@ -133,11 +133,11 @@ For more details, please refer to the [Tokenomics](tokenomiks.md) section.
 
 ## **Links**
 
-Telegram MiniApp: https://t.me/Lucky_BankBot/App
-Web: https://lucky-bank.github.io/
+Telegram MiniApp: [https://t.me/Lucky_BankBot/App](https://t.me/Lucky_BankBot/App) 
+Web: [https://lucky-bank.github.io/](https://lucky-bank.github.io/) 
 
-Telegram Channel (RU): https://t.me/lucky_ton_bank
-Telegram Chat: https://t.me/lucky_bank_chat
+Telegram Channel (RU): [https://t.me/lucky_ton_bank](https://t.me/lucky_ton_bank)  
+Telegram Chat: [https://t.me/lucky_bank_chat](https://t.me/lucky_bank_chat)
 
 [^1]: Based on Krediton Lending Tool (KLT) — a decentralized dApp (fully implemented on smart contracts without server-side involvement) B2B service https://t.me/krediton.
 

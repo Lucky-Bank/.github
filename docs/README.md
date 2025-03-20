@@ -32,11 +32,11 @@ Lucky Bank работает на децентрализованной техно
 
 ### Ссылки
 
-Telegram MiniApp: https://t.me/Lucky_BankBot/App
-Web: https://lucky-bank.github.io/
+Telegram MiniApp: [https://t.me/Lucky_BankBot/App](https://t.me/Lucky_BankBot/App) 
+Web: [https://lucky-bank.github.io/](https://lucky-bank.github.io/) 
 
-Telegram Channel (RU): https://t.me/lucky_ton_bank
-Telegram Chat: https://t.me/lucky_bank_chat
+Telegram Channel (RU): [https://t.me/lucky_ton_bank](https://t.me/lucky_ton_bank)  
+Telegram Chat: [https://t.me/lucky_bank_chat](https://t.me/lucky_bank_chat)
 
 ### Токен $BANK
 
