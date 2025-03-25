@@ -12,6 +12,8 @@ Master Contract Address: [**EQB1399hPqWDdupmVw43dKBEgYgsEtoliVGsfpchiHC-BANK**](
 Owner: _**Revoked**_\
 ICO Format: _**Quadratic Curve. Start at 1 USDT. End at 3 USDT.**_
 
+Public Sale: [https://lucky-bank.github.io/public-sale/](https://lucky-bank.github.io/public-sale/)
+
 ***
 
 ## Token Distribution

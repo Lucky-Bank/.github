@@ -102,7 +102,7 @@ Master contract address: [**EQB1399hPqWDdupmVw43dKBEgYgsEtoliVGsfpchiHC-BANK**](
 Owner: _**Revoked**_\
 ICO format: _**Quadratic curve. Start at 1 USDT. End at 3 USDT.**_
 
-For more details, please refer to the [Tokenomics](tokenomiks.md) section.
+For more details, please refer to the [Tokenomics](tokenomics.md) section.
 
 ***
 
@@ -133,11 +133,13 @@ For more details, please refer to the [Tokenomics](tokenomiks.md) section.
 
 ## **Links**
 
-Telegram MiniApp: [https://t.me/Lucky_BankBot/App](https://t.me/Lucky_BankBot/App) 
-Web: [https://lucky-bank.github.io/](https://lucky-bank.github.io/) 
+$BANK Public Sale: [https://lucky-bank.github.io/public-sale/](https://lucky-bank.github.io/public-sale/)
 
-Telegram Channel (RU): [https://t.me/lucky_ton_bank](https://t.me/lucky_ton_bank)  
-Telegram Chat: [https://t.me/lucky_bank_chat](https://t.me/lucky_bank_chat)
+Telegram MiniApp: [https://t.me/Lucky\_BankBot/App](https://t.me/Lucky_BankBot/App)\
+Web: [https://lucky-bank.github.io/](https://lucky-bank.github.io/)
+
+Telegram Channel (RU): [https://t.me/lucky\_ton\_bank](https://t.me/lucky_ton_bank)\
+Telegram Chat: [https://t.me/lucky\_bank\_chat](https://t.me/lucky_bank_chat)
 
 [^1]: Based on Krediton Lending Tool (KLT) — a decentralized dApp (fully implemented on smart contracts without server-side involvement) B2B service https://t.me/krediton.
 
